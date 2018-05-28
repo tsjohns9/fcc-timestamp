@@ -7,8 +7,8 @@
 ## Example usage:
 
 ```url
-/April 30, 2018
-/1525129176
+https://serv-timestamps-fcc.herokuapp.com/April 30, 2018
+https://serv-timestamps-fcc.herokuapp.com/1525129176
 ```
 
 ## Example output:
